@@ -1,0 +1,19 @@
+#tituloContainer{
+    display: flex;
+    align-items: center;
+    background-color:#88daf2;
+    width: 300px;
+    img{
+        height: 50px;
+    }
+}
+header{
+    background: linear-gradient(
+        to right ,
+        #6188ff,
+        #6188ff 70%,
+        #71a4f3 71%,
+        #71a4f3 97%,
+        #8ec0f0 100%
+    );
+}
